@@ -1,19 +1,14 @@
-title: Hyde
+title: HJin-C
 description: >-
-  Build your own portfolio <br>
+  Media Makes Space <br>
   with Hyde.
-url: "https://chemistryx.github.io"
+url: "https://hjin-c.github.io/"
 baseurl: "/hyde"
-github: ChemistryX
-email: changeme@chemistryx.me
-google_analytics: "UA_TOKEN"
+github: HJin-C
+email: hyeonjinc@gmail.com
+google_analytics: "92694006"
 
 exclude: [README.md, Gemfile, Gemfile.lock]
-
-comments:
-  enabled: true
-  repo: "REPO_COMMENTS_PATH"
-  issue-term: pathname
 
 collections:
   pages:
